@@ -22,7 +22,6 @@ const App = () => {
     checkAuth();
   }, [checkAuth]);
 
-  console.log(onlineUsers);
 
   if (isCheckingAuth && !authUser) {
     return (
