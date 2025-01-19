@@ -15,7 +15,7 @@ Tailwind CSS & DaisyUI: For stylish and responsive design
 Axios: For HTTP requests
 Zustand: For efficient state management
 
-Features
+Features:
 Theme Customization: Change themes from the settings page
 User Management: Create users, log in, and update profile pictures
 Real-Time Messaging: Send messages instantly with Socket.io
